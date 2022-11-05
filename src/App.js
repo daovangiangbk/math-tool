@@ -1,14 +1,11 @@
 import "./App.css";
-// import MathType from "@wiris/mathtype-ckeditor5";
-
 import { CKEditor } from "@ckeditor/ckeditor5-react";
 import ClassicEditor from "ckeditor5-build-classic-mathtype";
 import { useState } from "react";
-import "polyfill-math";
-import MathJax from "react-mathjax-preview";
 
 function App() {
   const [ckData, setCkData] = useState("");
+
   return (
     <div className="App">
       <h2>Using CKEditor 5 build in React</h2>
@@ -23,10 +20,17 @@ function App() {
           const data = editor.getData();
 
           setCkData(data);
+
+          // eslint-disable-next-line no-undef
+          // ref.innerHtml = MathJax.mathml2chtml(data);
+
           console.log({ data });
         }}
         onBlur={(event, editor) => {
-          console.log("Blur.", editor);
+          // eslint-disable-next-line no-undef
+          console.log("Blur.", { editor, MathJax });
+          // eslint-disable-next-line no-undef
+          MathJax.typeset();
         }}
         onFocus={(event, editor) => {
           console.log("Focus.", editor);
@@ -42,7 +46,20 @@ function App() {
       <br />
       <br />
       <br />
-      <MathJax math={ckData}></MathJax>
+      <p>
+        This is dynamic content from Editor, blur the editor to render from
+        MathML to HTML
+      </p>
+      <div dangerouslySetInnerHTML={{ __html: ckData }}></div>
+      <p>This is STATIC</p>
+      <p>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <mroot>
+            <mn>2</mn>
+            <mn>1</mn>
+          </mroot>
+        </math>
+      </p>
     </div>
   );
 }
