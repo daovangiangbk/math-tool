@@ -1,0 +1,74 @@
+\documentclass[12pt]{article}
+\usepackage{lingmacros}
+\usepackage{tree-dvips}
+\begin{document}
+
+\section*{Notes for My Paper}
+
+Don't forget to include examples of topicalization.
+They look like this:
+
+{\small
+\enumsentence{Topicalization from sentential subject:\\ 
+\shortex{7}{a John$_i$ [a & kltukl & [el & 
+  {\bf l-}oltoir & er & ngii$_i$ & a Mary]]}
+{ & {\bf R-}clear & {\sc comp} & 
+  {\bf IR}.{\sc 3s}-love   & P & him & }
+{John, (it's) clear that Mary loves (him).}}
+}
+
+\subsection*{How to handle topicalization}
+
+I'll just assume a tree structure like (\ex{1}).
+
+{\small
+\enumsentence{Structure of A$'$ Projections:\\ [2ex]
+\begin{tabular}[t]{cccc}
+    & \node{i}{CP}\\ [2ex]
+    \node{ii}{Spec} &   &\node{iii}{C$'$}\\ [2ex]
+        &\node{iv}{C} & & \node{v}{SAgrP}
+\end{tabular}
+\nodeconnect{i}{ii}
+\nodeconnect{i}{iii}
+\nodeconnect{iii}{iv}
+\nodeconnect{iii}{v}
+}
+}
+
+\subsection*{Mood}
+
+Mood changes when there is a topic, as well as when
+there is WH-movement.  \emph{Irrealis} is the mood when
+there is a non-subject topic or WH-phrase in Comp.
+\emph{Realis} is the mood when there is a subject topic
+or WH-phrase.
+
+
+1. Hàm số $y={{2}^{{{x}^{2}}-x}}$ có đạo hàm là
+A. ${{2}^{{{x}^{2}}-x}}.\ln 2$.	
+B. $(2x-1){{.2}^{{{x}^{2}}-x}}.\ln 2$.
+C. $({{x}^{2}}-x){{.2}^{{{x}^{2}}-x-1}}$.	
+D. $(2x-1){{.2}^{{{x}^{2}}-x}}$.
+Answer: B
+Analysis: 
+Ta có $y'=({{x}^{2}}-x)'{{.2}^{{{x}^{2}}-x}}.\ln 2=(2x-1){{.2}^{{{x}^{2}}-x}}.\ln 2$.
+2. Tính đạo hàm của hàm số $y=\frac{x+1}{{{4}^{x}}}$
+A. $y'=\frac{1-2\left( x+1 \right)\ln 2}{{{2}^{2x}}}$	
+B. $y'=\frac{1+2\left( x+1 \right)\ln 2}{{{2}^{2x}}}$
+C. $y'=\frac{1-2\left( x+1 \right)\ln 2}{{{2}^{{{x}^{2}}}}}$	
+D. $y'=\frac{1+2\left( x+1 \right)\ln 2}{{{2}^{{{x}^{2}}}}}$
+Answer: A
+Analysis: 
+Ta có: \[y'=\frac{{{\left( x+1 \right)}^{\prime }}{{.4}^{x}}-\left( x+1 \right).{{\left( {{4}^{x}} \right)}^{\prime }}}{{{\left( {{4}^{x}} \right)}^{2}}}=\frac{{{4}^{x}}-\left( x+1 \right){{.4}^{x}}.\ln 4}{{{\left( {{4}^{x}} \right)}^{2}}}\] $=\frac{{{4}^{x}}.\left( 1-x.\ln 4-\ln 4 \right)}{{{\left( {{4}^{x}} \right)}^{2}}}=\frac{1-x.2\ln 2-2\ln 2}{{{4}^{x}}}=\frac{1-2\left( x+1 \right)\ln 2}{{{2}^{2x}}}$.
+3. Tính đạo hàm hàm số $y={{e}^{x}}.\sin 2x$
+A. ${{e}^{x}}\left( \sin 2x-\cos 2x \right)$.	
+B. ${{e}^{x}}.cos2x$.
+C. ${{e}^{x}}\left( \sin 2x+\cos 2x \right)$.	
+D. ${{e}^{x}}\left( \sin 2x+2\cos 2x \right)$.
+Answer: D
+Analysis:
+$y'={{\left( {{e}^{x}}.\sin 2x \right)}^{\prime }}={{\left( {{e}^{x}} \right)}^{\prime }}.\sin 2x+{{e}^{x}}.{{\left( \sin 2x \right)}^{\prime }}={{e}^{x}}.\sin 2x+2{{e}^{x}}.\cos 2x={{e}^{x}}\left( \sin 2x+2\cos 2x \right)$
+
+
+\end{document}
+

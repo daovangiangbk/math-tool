@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>2</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S22">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S23">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S24">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S25">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S26">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S27">
+   <ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S28">
+   <ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S29">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S30">
+   <ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S31">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S32">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S33">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S34">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S35">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#00FFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S36">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S37">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S38">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S39">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#0000FF" ss:FontName="Arial" ss:Size="10" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S40">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S41">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S42">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S43">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S44">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#00FF00" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S45">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#00FF00" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S46">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S47">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S48">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S49">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S50">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S51">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S52">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFF2CC" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S53">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#CFE2F3" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S54">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#CFE2F3" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S55">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#CFE2F3" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S56">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#CFE2F3" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S57">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S58">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#CFE2F3" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S59">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#CFE2F3" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S60">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#CFE2F3" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S61">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#CFE2F3" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S62">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S63">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S64">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S65">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S66">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S67">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S68">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S69">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S70">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S71">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S72">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S73">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S74">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Listing">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="66" ss:ExpandedRowCount="13" ss:ExpandedColumnCount="11">
+   <Row ss:Index="1">
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Tên đề thi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Mã đề thi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Người tạo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Thời gian tạo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Môn học</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Khối lớp</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Dạng đề</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Assignee</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Deadline</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Trạng thái</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Hành động</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell ss:Index="4" ss:StyleID="S22"><Data ss:Type="String">MM/DD/YYYY hh:mm:ss</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">Khoa học tự nhiên</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Luyện tập</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Course</Data>
+    </Cell>
+    <Cell ss:Index="10" ss:StyleID="S22"><Data ss:Type="String">Chưa xuất bản</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Lưu</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:Index="5" ss:StyleID="S25"><Data ss:Type="String">Toán học</Data>
+    </Cell>
+    <Cell ss:StyleID="S26"><Data ss:Type="String" x:Ticked="1">02</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Tính điểm</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Personal</Data>
+    </Cell>
+    <Cell ss:Index="10" ss:StyleID="S22"><Data ss:Type="String">Đã xuất bản</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Xuất bản</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:Index="5" ss:StyleID="S25"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">03</Data>
+    </Cell>
+    <Cell ss:Index="10" ss:StyleID="S22"><Data ss:Type="String">Đã hết hạn</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Đóng đề thi</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:Index="5" ss:StyleID="S25"><Data ss:Type="String">Hóa học</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">04</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:Index="5" ss:StyleID="S25"><Data ss:Type="String">Văn học</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">05</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:Index="5" ss:StyleID="S25"><Data ss:Type="String">Sinh học</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">06</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell ss:Index="5" ss:StyleID="S25"><Data ss:Type="String">Anh văn</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">07</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell ss:Index="5" ss:StyleID="S25"><Data ss:Type="String">Lịch sử</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">08</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:Index="5" ss:StyleID="S25"><Data ss:Type="String">Địa lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">09</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="11">
+    <Cell ss:Index="5" ss:StyleID="S25" />
+    <Cell ss:StyleID="S25"><Data ss:Type="String">10</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="12">
+    <Cell ss:Index="5" ss:StyleID="S25" />
+    <Cell ss:StyleID="S25"><Data ss:Type="String">11</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:Index="5" ss:StyleID="S25" />
+    <Cell ss:StyleID="S25"><Data ss:Type="String">12</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Visible>SheetHidden</Visible>
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Details">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="66" ss:ExpandedRowCount="14" ss:ExpandedColumnCount="22">
+   <Row ss:Index="1">
+    <Cell ss:StyleID="S27"><Data ss:Type="String">Trang 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S27"><Data ss:Type="String">Trang 2</Data>
+    </Cell>
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S28" />
+    <Cell ss:StyleID="S30" />
+    <Cell ss:StyleID="S30" />
+   </Row>
+   <Row ss:Index="2">
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Tên đề thi</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Môn học</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Khối lớp</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Dạng đề</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Assignee</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Mô tả đề</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Thời gian làm bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Thời hạn nộp bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Đảo câu hỏi và đáp án</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Cho xem đáp án</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Cho xem điểm</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Mã đề thi</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Người tạo</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Thời gian tạo</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Trạng thái</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Chương</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Chủ điểm kiến thức</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Độ khó</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Dạng câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Số lượng</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">Hành động</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Freetext input, max 100 ký tự</Data>
+    </Cell>
+    <Cell ss:StyleID="S33"><Data ss:Type="String">Khoa học tự nhiên</Data>
+    </Cell>
+    <Cell ss:StyleID="S34"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Luyện tập</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Cho 1 Course</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Freetext input</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Điền số phút</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">mm/dd/yyyy</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Không</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Không</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Không</Data>
+    </Cell>
+    <Cell ss:StyleID="S35"><Data ss:Type="String">Aca cung cấp cách tạo</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">MM/DD/YYYY hh:mm:ss</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Chưa xuất bản</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32" />
+    <Cell ss:StyleID="S36"><Data ss:Type="String">Nhận biết</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Lý Thuyết</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Đi theo từng độ khó</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Lưu</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">Toán học</Data>
+    </Cell>
+    <Cell ss:StyleID="S38"><Data ss:Type="String" x:Ticked="1">02</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Tính điểm</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Cho từng học sinh</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Đảo đáp án</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Sau mỗi câu</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Khi thi xong</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Đã xuất bản</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Hiểu</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Bài Tập</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Xuất bản</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S37"><Data ss:Type="String">03</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Đảo câu hỏi &amp; đáp án</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Sau khi làm bài xong</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Đã hết hạn</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Vận dụng</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">LTDH</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Đóng đề thi</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">Hóa học</Data>
+    </Cell>
+    <Cell ss:StyleID="S37"><Data ss:Type="String">04</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Vận dụng cao</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">Anh văn</Data>
+    </Cell>
+    <Cell ss:StyleID="S37"><Data ss:Type="String">07</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="8">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">Lịch sử</Data>
+    </Cell>
+    <Cell ss:StyleID="S37"><Data ss:Type="String">08</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="9">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">Văn học</Data>
+    </Cell>
+    <Cell ss:StyleID="S37"><Data ss:Type="String">05</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">AM</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">HS </Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">1. Nếu HS tạo tiếp đề luyện tập?</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">AM</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">HS </Data>
+    </Cell>
+    <Cell ss:StyleID="S32" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">Sinh học</Data>
+    </Cell>
+    <Cell ss:StyleID="S37"><Data ss:Type="String">06</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S32"><Data ss:Type="String">100 Câu</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Tạo bộ đề 20 câu</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Còn 80 câu</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Luyện 80 câu còn lại</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">- Random lại&#10;- Đã làm hết câu hỏi rồi?</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Tạo bộ đề thứ 2 có 10 câu</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">Vẫn làm lại 10 câu đó</Data>
+    </Cell>
+    <Cell ss:StyleID="S32" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="11">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">Địa lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S37"><Data ss:Type="String">09</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="12">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">11</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="14">
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S37" />
+    <Cell ss:StyleID="S37"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Visible>SheetHidden</Visible>
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Template">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="66" ss:ExpandedRowCount="34" ss:ExpandedColumnCount="26">
+   <Row ss:Index="1">
+    <Cell ss:Index="2" ss:StyleID="S39" ss:HRef="https://marathonedu.atlassian.net/wiki/spaces/AO/pages/3407885/Marathon+Test+Ver1.0+2022"><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Face="Arial" html:Color="#0000FF" html:Size="10">Logic tạo mã câu hỏi: </Font></U><U><Font html:Face="Arial" html:Color="#1155CC" html:Size="10">https://marathonedu.atlassian.net/wiki/spaces/AO/pages/3407885/Marathon+Test+Ver1.0+2022</Font></U></ss:Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2" ss:Hidden="1">
+    <Cell ss:Index="2" ss:StyleID="S40"><Data ss:Type="String">Trang Listing</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3" ss:Hidden="1">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vật lý (Tab)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Toán học (Tab)</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">Hóa học (Tab)</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="4" ss:Hidden="1">
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Khối lớp</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Mã câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S45"><Data ss:Type="String">Bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Dạng bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Dạng câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Loại câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Hành động</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5" ss:Hidden="1">
+    <Cell ss:StyleID="S46"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">*Nếu 00 là không thuộc Bài gì</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">*Nếu 00 là không thuộc dạng gì</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Lý Thuyết</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Nội dung đầu của câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">View</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6" ss:Hidden="1">
+    <Cell ss:StyleID="S46"><Data ss:Type="String" x:Ticked="1">02</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Bài Tập</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S48" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="7" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">03</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="8" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">04</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">LTDH</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="9" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">05</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Đọc điền</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="10" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">06</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Đọc viết</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="11" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">07</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Nghe điền</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="12" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">08</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Nghe viết</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="13" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">09</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="14" ss:Hidden="1" />
+   <Row ss:Index="15" ss:Hidden="1">
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S50"><Data ss:Type="String">Trang Detail 1 câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+   </Row>
+   <Row ss:Index="16">
+    <Cell ss:StyleID="S51" />
+    <Cell ss:StyleID="S52"><Data ss:Type="String">Template</Data>
+    </Cell>
+    <Cell ss:StyleID="S51" />
+    <Cell ss:StyleID="S51" />
+    <Cell ss:StyleID="S51" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S54" />
+    <Cell ss:StyleID="S55" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S54" />
+    <Cell ss:StyleID="S56" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="17">
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Khối lớp</Data>
+    </Cell>
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Môn học</Data>
+    </Cell>
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Kiến thức Chương</Data>
+    </Cell>
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Kiến thức Bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Dạng bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Loại câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S59"><Data ss:Type="String">Mã nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Mô tả câu hỏi nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Audio Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Hình ảnh Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Dạng câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Độ khó</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Hình thức câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S59"><Data ss:Type="String">STT câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S61"><Data ss:Type="String">Câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Audio câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Hình ảnh câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 2</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 3</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 4</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 5</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 6</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Đáp án đúng</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Bài giải</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="18">
+    <Cell ss:StyleID="S62"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Khoa học tự nhiên</Data>
+    </Cell>
+    <Cell ss:StyleID="S64"><Data ss:Type="String">*Nếu 00 là không thuộc Chương gì &#10;(AC Note: Số thứ tự được lấy từ file Phân Công Tài Liệu&#10;Dev Note: Curriculum content)</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">*Nếu 00 là không thuộc Bài gì</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">*Nếu 00 là không thuộc dạng gì</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S65"><Data ss:Type="String" x:Ticked="1">000 là không thuộc nhóm nào&#10;</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">upload bên insight &amp; dẫn link vào đây</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">upload bên insight &amp; dẫn link vào đây</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Lý Thuyết</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhận biết</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">001-999</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">upload bên insight &amp; dẫn link vào đây</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">upload bên insight &amp; dẫn link vào đây</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Freetext (Support Latex)</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="19">
+    <Cell ss:StyleID="S62"><Data ss:Type="String" x:Ticked="1">02</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Toán học</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">00-99</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">00-99</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">00-99</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">001-999</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Không có thì bó trống</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Không có thì bó trống</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Không có thì bó trống</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Bài Tập</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Hiểu</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn nhiều</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Không có thì bó trống</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Không có thì bó trống</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S66" />
+    <Cell ss:StyleID="S66" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Không có thì bó trống</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="20">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">03</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vận dụng</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Tự luận</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="21">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">04</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Hóa học</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S63"><Data ss:Type="String">LTDH</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vận dụng cao</Data>
+    </Cell>
+    <Cell ss:StyleID="S63" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="22">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">05</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Văn học</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Đọc điền</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="23">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">06</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Sinh học</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Đọc viết</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="24">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">07</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Anh văn</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nghe điền</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="25">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">08</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Lịch sử</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nghe viết</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="26">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">09</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Địa lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="27">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S63" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="28">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">11</Data>
+    </Cell>
+    <Cell ss:StyleID="S63" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="29">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S67" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="31">
+    <Cell ss:Index="2" ss:StyleID="S22" />
+   </Row>
+   <Row ss:Index="32">
+    <Cell ss:Index="2" ss:StyleID="S22"><Data ss:Type="String">mathtype</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">equation</Data>
+    </Cell>
+    <Cell ss:StyleID="S68" />
+    <Cell ss:StyleID="S68" />
+   </Row>
+   <Row ss:Index="33">
+    <Cell ss:Index="4" ss:StyleID="S25" />
+    <Cell ss:StyleID="S25" />
+   </Row>
+   <Row ss:Index="34">
+    <Cell ss:StyleID="S40"><Data ss:Type="String">Important</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Tìm công cụ chuyển đổi từ math type sang latex </Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="File mẫu">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="66" ss:ExpandedRowCount="35" ss:ExpandedColumnCount="26">
+   <Row ss:Index="1">
+    <Cell ss:Index="2" ss:StyleID="S39" ss:HRef="https://marathonedu.atlassian.net/wiki/spaces/AO/pages/3407885/Marathon+Test+Ver1.0+2022"><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Face="Arial" html:Color="#0000FF" html:Size="10">Logic tạo mã câu hỏi: </Font></U><U><Font html:Face="Arial" html:Color="#1155CC" html:Size="10">https://marathonedu.atlassian.net/wiki/spaces/AO/pages/3407885/Marathon+Test+Ver1.0+2022</Font></U></ss:Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2" ss:Hidden="1">
+    <Cell ss:Index="2" ss:StyleID="S40"><Data ss:Type="String">Trang Listing</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3" ss:Hidden="1">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vật lý (Tab)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Toán học (Tab)</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">Hóa học (Tab)</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="4" ss:Hidden="1">
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Khối lớp</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Mã câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S45"><Data ss:Type="String">Bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Dạng bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Dạng câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Loại câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S44"><Data ss:Type="String">Hành động</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5" ss:Hidden="1">
+    <Cell ss:StyleID="S46"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">*Nếu 00 là không thuộc Bài gì</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">*Nếu 00 là không thuộc dạng gì</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Lý Thuyết</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Nội dung đầu của câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">View</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6" ss:Hidden="1">
+    <Cell ss:StyleID="S46"><Data ss:Type="String" x:Ticked="1">02</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Bài Tập</Data>
+    </Cell>
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S48" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="7" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">03</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="8" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">04</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">LTDH</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="9" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">05</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Đọc điền</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="10" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">06</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Đọc viết</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="11" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">07</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Nghe điền</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="12" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">08</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S47"><Data ss:Type="String">Nghe viết</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="13" ss:Hidden="1">
+    <Cell ss:StyleID="S47"><Data ss:Type="String">09</Data>
+    </Cell>
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+    <Cell ss:StyleID="S43" />
+   </Row>
+   <Row ss:Index="14" ss:Hidden="1" />
+   <Row ss:Index="15" ss:Hidden="1">
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S50"><Data ss:Type="String">Trang Detail 1 câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+    <Cell ss:StyleID="S49" />
+   </Row>
+   <Row ss:Index="16">
+    <Cell ss:StyleID="S51" />
+    <Cell ss:StyleID="S52"><Data ss:Type="String">Template</Data>
+    </Cell>
+    <Cell ss:StyleID="S51" />
+    <Cell ss:StyleID="S51" />
+    <Cell ss:StyleID="S51" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S54" />
+    <Cell ss:StyleID="S55" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S54" />
+    <Cell ss:StyleID="S56" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S53" />
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="17">
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Khối lớp</Data>
+    </Cell>
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Môn học</Data>
+    </Cell>
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Kiến thức Chương</Data>
+    </Cell>
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Kiến thức Bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S57"><Data ss:Type="String">Dạng bài</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Loại câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S59"><Data ss:Type="String">Mã nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Mô tả câu hỏi nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Audio Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Hình ảnh Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Dạng câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Độ khó</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Hình thức câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S59"><Data ss:Type="String">Mã câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S61"><Data ss:Type="String">Câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Audio câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S60"><Data ss:Type="String">Hình ảnh câu hỏi</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 2</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 3</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 4</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 5</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Lựa chọn 6</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Đáp án đúng</Data>
+    </Cell>
+    <Cell ss:StyleID="S58"><Data ss:Type="String">Bài giải</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="18">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S65"><Data ss:Type="String" x:Ticked="1">000</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhận biết</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String" x:Ticked="1">075</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Một lọ thuỷ tinh được đậy bằng nút thuỷ tinh. Nút bị kẹt. Hỏi phải mở nút bằng cách nào trong các cách sau đây?</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Hơ nóng nút.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Hơ nóng cổ lọ.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Hơ nóng cả nút và cổ lọ.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Hơ nóng đáy lọ.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="19">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S65"><Data ss:Type="String" x:Ticked="1">000</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Hiểu</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S72"><Data ss:Type="String" x:Ticked="1">076</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Một sóng cơ lan truyền trong một môi trường với tốc độ 1 m/s và tần số 10 Hz, biên độ sóng không đổi là 4 cm. Khi phần tử vật chất nhất định của môi trường đi được quãng đường 8 cm thì sóng truyền thêm được quãng đường:</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">4 cm</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">10 cm</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">8 cm</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">5 cm</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="20">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S65"><Data ss:Type="String" x:Ticked="1">000</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vận dụng</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">077</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Khi nói về các tật của mắt, phát biểu nào sau đây là sai?</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Mắt cận không nhìn rõ được các vật ở xa, chỉ nhìn rõ được các vật ở gần.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Mắt viễn không nhìn rõ được các vật ở gần, chỉ nhìn rõ được ác vật ở xa.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Mắt lão không nhìn rõ các vật ở gần cũng không nhìn rõ được vật ở xa.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Mắt lão có khả năng quan sát hoàn toàn giống mắt cận và mắt viễn.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="21">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S65"><Data ss:Type="String" x:Ticked="1">000</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vận dụng cao</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">078</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Một máy tăng áp có tỉ số vòng dây giữa hai cuộn dây là 2. Đặt vào hai đầu cuộn sơ cấp một điện áp xoay chiều có tần số 50 Hz. Tần số dòng điện hai đầu cuộn thứ cấp bằng</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">50 Hz</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">25 Hz</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">100 Hz</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">502 Hz</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="22">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">02</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String" x:Ticked="1">001</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Dựa vào thông tin sau trả lời các câu hỏi từ 97 đến 99.&#10;Vào mùa mưa, người dân phải chú ý tới sét, hiện tượng này thường xảy ra do sự phát triển bất thường của khí hậu. Việt Nam là một trong 3 vùng có hoạt động sét mạnh nhất thế giới, với mức trung bình 80 đến 90 ngày giông trong năm. Các tỉnh hay bị sét nhất là Hòa Bình, Hải Dương, Hà Tĩnh và đồng bằng sông Mekong. Dông kèm theo mưa lớn và sét xuất hiện thường xuyên ở Việt Nam vào tháng 5 đến tháng 9. Việc nghiên cứu và dự báo giông sét ở Việt Nam được cải thiện một cách đáng kể, nhờ việc lắp đặt một hệ thống quan sát gồm 8 trạm trên cả nước. Viện Vật lý địa cầu đã đưa ra, như là một thí nghiệm, dự báo rủi ro sét cho người dân, khoảng 2 giờ trước.&#10;</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhận biết</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S72"><Data ss:Type="String" x:Ticked="1">097</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Khi trời mưa giông, ta thường nghe tiếng sấm. Vậy vật nào đã dao động phát ra tiếng sấm?</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Các đám mây va chạm vào nhau nên đã dao động phát ra tiếng sấm.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Các tia lửa điện khổng lồ dao động gây ra tiếng sấm.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Không khí xung quanh tia sét đã bị dãn nở đột ngột khiến chúng dao động gây tiếng sấm.&#x000d;</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Cả ba lí do trên.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="23">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String" x:Ticked="1">001</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Dựa vào thông tin sau trả lời các câu hỏi từ 97 đến 99.&#10;Vào mùa mưa, người dân phải chú ý tới sét, hiện tượng này thường xảy ra do sự phát triển bất thường của khí hậu. Việt Nam là một trong 3 vùng có hoạt động sét mạnh nhất thế giới, với mức trung bình 80 đến 90 ngày giông trong năm. Các tỉnh hay bị sét nhất là Hòa Bình, Hải Dương, Hà Tĩnh và đồng bằng sông Mekong. Dông kèm theo mưa lớn và sét xuất hiện thường xuyên ở Việt Nam vào tháng 5 đến tháng 9. Việc nghiên cứu và dự báo giông sét ở Việt Nam được cải thiện một cách đáng kể, nhờ việc lắp đặt một hệ thống quan sát gồm 8 trạm trên cả nước. Viện Vật lý địa cầu đã đưa ra, như là một thí nghiệm, dự báo rủi ro sét cho người dân, khoảng 2 giờ trước.&#13;</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Hiểu</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">098</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Biết rằng khi xảy ra sấm sét, ánh sáng truyền đến mắt người quan sát trước khi tiếng sấm truyền đến tai người nghe. Biết vận tốc ánh sáng là 300000 km/s, vận tốc âm thanh truyền trong không khí là 340 m/s. Một người nhìn thấy tia sét trước khi nghe tiếng sấm 4 s. Tính khoảng cách từ nơi xảy ra tia sét đến tai người đó.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">1630 m</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">1360 m </Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">1603 m </Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">1306 m</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="24">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String" x:Ticked="1">001</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Dựa vào thông tin sau trả lời các câu hỏi từ 97 đến 99.&#10;Vào mùa mưa, người dân phải chú ý tới sét, hiện tượng này thường xảy ra do sự phát triển bất thường của khí hậu. Việt Nam là một trong 3 vùng có hoạt động sét mạnh nhất thế giới, với mức trung bình 80 đến 90 ngày giông trong năm. Các tỉnh hay bị sét nhất là Hòa Bình, Hải Dương, Hà Tĩnh và đồng bằng sông Mekong. Dông kèm theo mưa lớn và sét xuất hiện thường xuyên ở Việt Nam vào tháng 5 đến tháng 9. Việc nghiên cứu và dự báo giông sét ở Việt Nam được cải thiện một cách đáng kể, nhờ việc lắp đặt một hệ thống quan sát gồm 8 trạm trên cả nước. Viện Vật lý địa cầu đã đưa ra, như là một thí nghiệm, dự báo rủi ro sét cho người dân, khoảng 2 giờ trước.&#13;</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhận biết</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">099</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Tia sét là một dòng điện xảy ra trong thời gian khoảng 0,001 s giữa hai đám mây tích điện dưới hiệu điện thế khoảng 109 V (1 tỉ vôn). Cường độ dòng điện của tia sét rất lớn khoảng 20000 A. Tính công suất của một tia sét.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">2.1010 W</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">2.1016 W</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">2.1013 W</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">2.1019 W</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="25">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String" x:Ticked="1">002</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Dựa vào thông tin sau trả lời các câu hỏi từ 100 đến 102.&#10;Xét chuyển động bằng phản lực của tên lửa có khối lượng M mang theo nhiên liệu có khối lượng m. Do tên lửa bắt đầu chuyển động từ một vị trí đứng yên trên mặt đất nên ta có hệ (tên lửa + nhiên liệu) ban đầu có vận tốc bằng không.&#10;Chọn chiều dương là chiều chuyển động của tên lửa, coi nhiên liệu cháy phụt ra phía sau cùng một lúc với vận tốc là v, vận tốc tên lửa chuyển động về phía trước là V.&#10;Áp dụng định luật bảo toàn cho hệ kín (tên lửa + nhiên liệu) ta có: mv+MV=0 &#10;Chiếu lên phương chuyển động của tên lửa ta có: -mv+MV=0→V=vmM &#10;Từ biểu thức trên ta nhận thấy vận tốc của tên lửa tỉ lệ nghịch với khối lượng của tên lửa. Chính vì vậy trong thực tiễn người ta chế tạo tên lửa gồm nhiều tầng nhiên liệu, sau khi nhiên liệu ở mỗi tầng cháy hết thì các tầng chứa nhiên liệu đó tách ra và trở về Trái Đất, khối lượng của tên lửa giảm đi, vận tốc của tên lửa được tăng lên</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Hiểu</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">100</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Phát biểu nào sau đây không đúng?</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Động lượng của một vật bằng tích khối lượng và vận tốc của vật.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Động lượng của một vật là một đại lượng vectơ.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Động lượng của một vật có đơn vị của năng lượng.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Động lượng của một vật phụ thuộc vào khối lượng và vận tốc của vật.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="26">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String" x:Ticked="1">002</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Dựa vào thông tin sau trả lời các câu hỏi từ 100 đến 102.&#10;Xét chuyển động bằng phản lực của tên lửa có khối lượng M mang theo nhiên liệu có khối lượng m. Do tên lửa bắt đầu chuyển động từ một vị trí đứng yên trên mặt đất nên ta có hệ (tên lửa + nhiên liệu) ban đầu có vận tốc bằng không.&#10;Chọn chiều dương là chiều chuyển động của tên lửa, coi nhiên liệu cháy phụt ra phía sau cùng một lúc với vận tốc là v, vận tốc tên lửa chuyển động về phía trước là V.&#10;Áp dụng định luật bảo toàn cho hệ kín (tên lửa + nhiên liệu) ta có: mv+MV=0 &#10;Chiếu lên phương chuyển động của tên lửa ta có: -mv+MV=0→V=vmM &#10;Từ biểu thức trên ta nhận thấy vận tốc của tên lửa tỉ lệ nghịch với khối lượng của tên lửa. Chính vì vậy trong thực tiễn người ta chế tạo tên lửa gồm nhiều tầng nhiên liệu, sau khi nhiên liệu ở mỗi tầng cháy hết thì các tầng chứa nhiên liệu đó tách ra và trở về Trái Đất, khối lượng của tên lửa giảm đi, vận tốc của tên lửa được tăng lên</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vận dụng</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">101</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Một máy bay có khối lượng 160000 kg, bay với vận tốc 870 km/h. Tính động lượng của máy bay.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">3,87.107 (kg.m/s)</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">1,39.108 (kg.m/s)</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">3,87.108 (kg.m/s)</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">1,39.107 (kg.m/s)</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="27">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vật lý</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">00</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Nhóm</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String" x:Ticked="1">002</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Dựa vào thông tin sau trả lời các câu hỏi từ 100 đến 102.&#10;Xét chuyển động bằng phản lực của tên lửa có khối lượng M mang theo nhiên liệu có khối lượng m. Do tên lửa bắt đầu chuyển động từ một vị trí đứng yên trên mặt đất nên ta có hệ (tên lửa + nhiên liệu) ban đầu có vận tốc bằng không.&#10;Chọn chiều dương là chiều chuyển động của tên lửa, coi nhiên liệu cháy phụt ra phía sau cùng một lúc với vận tốc là v, vận tốc tên lửa chuyển động về phía trước là V.&#10;Áp dụng định luật bảo toàn cho hệ kín (tên lửa + nhiên liệu) ta có: mv+MV=0 &#10;Chiếu lên phương chuyển động của tên lửa ta có: -mv+MV=0→V=vmM &#10;Từ biểu thức trên ta nhận thấy vận tốc của tên lửa tỉ lệ nghịch với khối lượng của tên lửa. Chính vì vậy trong thực tiễn người ta chế tạo tên lửa gồm nhiều tầng nhiên liệu, sau khi nhiên liệu ở mỗi tầng cháy hết thì các tầng chứa nhiên liệu đó tách ra và trở về Trái Đất, khối lượng của tên lửa giảm đi, vận tốc của tên lửa được tăng lên</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Vận dụng cao</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">102</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Một tên lửa có tổng khối lượng 5 tấn đang chuyến động với vận tốc 100 m/s thì phụt ra phía sau một lượng khí 1 tấn. Tốc độ khí đối với tên lửa lúc chưa phụt là 400 m/s. Sau khi phụt khí vận tốc của tên lửa có giá trị là</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Ta có: \[y&amp;#39;=\frac{{{\left( x+1 \right)}^{\prime }}{{.4}^{x}}-\left( x+1 \right).{{\left( {{4}^{x}}&#10;\right)}^{\prime }}}{{{\left( {{4}^{x}} \right)}^{2}}}=\frac{{{4}^{x}}-\left( x+1&#10;\right){{.4}^{x}}.\ln 4}{{{\left( {{4}^{x}} \right)}^{2}}}\] $=\frac{{{4}^{x}}.\left( 1-x.\ln 4-\ln 4&#10;\right)}{{{\left( {{4}^{x}} \right)}^{2}}}=\frac{1-x.2\ln 2-2\ln 2}{{{4}^{x}}}=\frac{1-2\left( x+1&#10;\right)\ln 2}{{{2}^{2x}}}$.</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">180 m/s</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">225 m/s</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">250 m/s</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="28">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S64"><Data ss:Type="String">Toán</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">02</Data>
+    </Cell>
+    <Cell ss:StyleID="S64"><Data ss:Type="Number">14</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S65"><Data ss:Type="String" x:Ticked="1">000</Data>
+    </Cell>
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Hiểu</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S72"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Hàm số $y={{2}^{{{x}^{2}}-x}}$ có đạo hàm là</Data>
+    </Cell>
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S71"><Data ss:Type="String">${{2}^{{{x}^{2}}-x}}.\ln 2$</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">$(2x-1){{.2}^{{{x}^{2}}-x}}.\ln 2$</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">$({{x}^{2}}-x){{.2}^{{{x}^{2}}-x-1}}$</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">$(2x-1){{.2}^{{{x}^{2}}-x}}$</Data>
+    </Cell>
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Ta có $y'=({{x}^{2}}-x)'{{.2}^{{{x}^{2}}-x}}.\ln 2=(2x-1){{.2}^{{{x}^{2}}-x}}.\ln 2$</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="29">
+    <Cell ss:StyleID="S63"><Data ss:Type="String">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S64"><Data ss:Type="String">Toán</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">03</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">16</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String" x:Ticked="1">000</Data>
+    </Cell>
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Hiểu</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S72"><Data ss:Type="String" x:Ticked="1">02</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Tính đạo hàm của hàm số $y=\frac{x+1}{{{4}^{x}}}$</Data>
+    </Cell>
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S71"><Data ss:Type="String">$y'=\frac{1-2\left( x+1 \right)\ln 2}{{{2}^{2x}}}$</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">$y'=\frac{1+2\left( x+1 \right)\ln 2}{{{2}^{2x}}}$</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">$y'=\frac{1-2\left( x+1 \right)\ln 2}{{{2}^{{{x}^{2}}}}}$</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">$y'=\frac{1+2\left( x+1 \right)\ln 2}{{{2}^{{{x}^{2}}}}}$</Data>
+    </Cell>
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Ta có: \[y'=\frac{{{\left( x+1 \right)}^{\prime }}{{.4}^{x}}-\left( x+1 \right).{{\left( {{4}^{x}} \right)}^{\prime }}}{{{\left( {{4}^{x}} \right)}^{2}}}=\frac{{{4}^{x}}-\left( x+1 \right){{.4}^{x}}.\ln 4}{{{\left( {{4}^{x}} \right)}^{2}}}\] $=\frac{{{4}^{x}}.\left( 1-x.\ln 4-\ln 4 \right)}{{{\left( {{4}^{x}} \right)}^{2}}}=\frac{1-x.2\ln 2-2\ln 2}{{{4}^{x}}}=\frac{1-2\left( x+1 \right)\ln 2}{{{2}^{2x}}}$</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="30">
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S64"><Data ss:Type="String">Toán</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">03</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">16</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S66"><Data ss:Type="String">Đơn</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String" x:Ticked="1">000</Data>
+    </Cell>
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S63"><Data ss:Type="String">DGNL</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Hiểu</Data>
+    </Cell>
+    <Cell ss:StyleID="S63"><Data ss:Type="String">Chọn 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S72"><Data ss:Type="String" x:Ticked="1">03</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">Tính đạo hàm hàm số $y={{e}^{x}}.\sin 2x$</Data>
+    </Cell>
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S71"><Data ss:Type="String">${{e}^{x}}\left( \sin 2x-\cos 2x \right)$</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">${{e}^{x}}.cos2x$</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">${{e}^{x}}\left( \sin 2x+\cos 2x \right)$</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">${{e}^{x}}\left( \sin 2x+2\cos 2x \right)$</Data>
+    </Cell>
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S73" />
+    <Cell ss:StyleID="S71"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">$y'={{\left( {{e}^{x}}.\sin 2x \right)}^{\prime }}={{\left( {{e}^{x}} \right)}^{\prime }}.\sin 2x+{{e}^{x}}.{{\left( \sin 2x \right)}^{\prime }}={{e}^{x}}.\sin 2x+2{{e}^{x}}.\cos 2x={{e}^{x}}\left( \sin 2x+2\cos 2x \right)$</Data>
+    </Cell>
+    <Cell ss:StyleID="S29" />
+   </Row>
+   <Row ss:Index="32">
+    <Cell ss:Index="2" ss:StyleID="S22" />
+   </Row>
+   <Row ss:Index="33">
+    <Cell ss:Index="4" ss:StyleID="S74"><Data ss:Type="String" x:Ticked="1">01</Data>
+    </Cell>
+    <Cell ss:StyleID="S68" />
+   </Row>
+   <Row ss:Index="34">
+    <Cell ss:Index="4" ss:StyleID="S68" />
+    <Cell ss:StyleID="S68" />
+   </Row>
+   <Row ss:Index="35">
+    <Cell ss:StyleID="S40" />
+    <Cell ss:Index="4" ss:StyleID="S68" />
+    <Cell ss:StyleID="S68" />
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
